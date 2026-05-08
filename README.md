@@ -1,14 +1,25 @@
-# The Evans-Mu Universal Blueprint
-Welcome to the official repository of the **Evans-Mu Theory**. This project defines a new cosmological constant, the **Evans Velocity**, and the structural infrastructure for a connected universe.
+# 🌌 The Evans-Mu Universal Blueprint
 
-## Core Formula
-The Evans Velocity ($v_E$) is defined as:
-$$v_E = c * T_0$$
+**Author:** Evans Mu (Legal ID: Evans Kiptoo)  
+**Status:** Canonical Scientific Framework  
 
-## Repository Contents
-* `The_Evans-Mu_Universal_Blueprint.pdf`: The foundational whitepaper.
-* `Assets/`: Generated visualizations of the Mu-Filament and Evans Monolith.
+## Overview
+The Evans-Mu Theory proposes a revolutionary shift in cosmological engineering. By utilizing the **Evans Velocity** ($v_E$), intelligence can transition from being a passive observer of the universe to its primary architect.
 
-## License
-This work is licensed under a Creative Commons Attribution 4.0 International License. Credit must be given to **EvansMu**.
- 
+## The Core Formula
+The fundamental constant of this theory is the synchronization of light speed with the age of the universe:
+
+$$v_E = c \cdot T_0$$
+
+Where $v_E$ is the **Evans Velocity**, $c$ is the speed of light, and $T_0$ is the current age of the universe ($\approx 13.8$ billion years).
+
+## Key Concepts
+*   **Mu-Filament:** A linear singularity created at $v_E$ that acts as a "Cosmic Spine."
+*   **Evans Equilibrium:** A statistical balance ($\chi_E = 1$) that prevents the "Big Rip" by anchoring galaxies to the filament.
+*   **Point Zero:** The central anchor located in the Great Void.
+
+## Documentation
+The full technical whitepaper is available in this repository: [The_Evans-Mu_Universal_Blueprint.pdf](./The_Evans-Mu_Universal_Blueprint.pdf)
+
+## Contact & Attribution
+For inquiries regarding the **Evans-Mu Theory**, please contact the author via this GitHub profile.
